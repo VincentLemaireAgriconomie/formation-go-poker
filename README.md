@@ -5,7 +5,7 @@
 The objectives of this repository is to teach how to code in golang with an example : create a small poker game.
 
 we will focus on : 
-- [the installation ( and the dependencies )](00_installation/README.md)
+- [the installation](00_installation/README.md)
 - how to [compile, run ...](../01_compile_run/README.md)
 - how to make something private
 - a web server with json serialization
