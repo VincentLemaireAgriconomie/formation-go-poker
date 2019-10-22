@@ -1,6 +1,6 @@
 # formation-go-poker
 
-## Objectives :
+## Steps :
 
 The objectives of this repository is to teach how to code in golang with an example : create a small poker game.
 
