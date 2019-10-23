@@ -13,12 +13,16 @@ go 1.13
 
 but we need `"github.com/logrusorgru/aurora"`
 
-we can get it with `go get`
+`go get` to get it
 
 you will see a new file `go.sum` containing the checksum for the project and his dependencies.
 
-Now we can format our file with `go fmt` this ensure that everyone in go is following the same rules.
+`go fmt` allow you to format your code this ensure that everyone in go is following the same rules. ( please do it before every commit )
 
-to run the programme : `go run .` 
+`go run .` to run the programme 
 
-to compile the programme : `go build .`
+`go build .` to compile the programme ( it will be in ./bin/ )
+
+`go vet ./...` to check potential error
+
+the [playground](https://play.golang.org/) basically just do a go run in a container.

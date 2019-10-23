@@ -6,8 +6,9 @@ The objectives of this repository is to teach how to code in golang with an exam
 
 we will focus on : 
 - [the installation](00_installation/README.md)
-- how to [compile, run ...](../01_compile_run/README.md)
-- how to make something private
+- how to [compile, run ...](01_compile_run/README.md)
+- create your [first struct](02_struct_func/README.md)
+- how to make [something private](03_private/README.md)
 - a web server with json serialization
 - how to handle the errors
 - the interfaces
@@ -18,8 +19,4 @@ we will focus on :
 
 ## Usage :
 
-This repository will come with 2 branches :
-- master with all the information and how to
-- example with an implementation for the exercise to keep moving forward
-
-feel free to open a PR for any other examples.
+Each directory is an exercise focus on one thing
